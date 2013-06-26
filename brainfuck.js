@@ -18,7 +18,7 @@ function brainfuckValidate (code, max) {
 	//Fun
 	if (others < 10) {console.log(others + "? corr\', that\'s small!");
 	} else if (others < 100) {console.log(others + "? Impressive.");
-	} else {console.log(others + "? Bloody Hell that\'s massive!\n(that\'s what she said)");}
+	} else {console.log(others + "? Huge");}
 	//She said it all, on the same night.
 	
 	if (loops > 0) {console.log("Close your loops!");return false;
